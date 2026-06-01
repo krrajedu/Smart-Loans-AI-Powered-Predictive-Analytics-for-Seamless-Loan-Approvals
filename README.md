@@ -1,0 +1,2 @@
+# Smart-Loans-AI-Powered-Predictive-Analytics-for-Seamless-Loan-Approvals
+SmartLoans is a machine learning-based loan approval prediction system developed to automate and enhance the loan evaluation process. The project leverages predictive analytics techniques to analyze applicant information such as income, loan amount, credit history, employment status, and property area to determine the likelihood of loan approval.
